@@ -38,7 +38,10 @@ while True:
  print(s.recv(1024).decode())
  s.send("Acknowledgement Recived".encode())
 ```
-4*<br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
 ## OUTPUT
 ### CLIENT
