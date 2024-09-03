@@ -38,6 +38,8 @@ while True:
  print(s.recv(1024).decode())
  s.send("Acknowledgement Recived".encode())
 ```
+4*<br>
+
 ## OUTPUT
 ### CLIENT
 ![Screenshot 2024-09-03 084238](https://github.com/user-attachments/assets/53924fd2-98be-47af-bdbb-c293312d1947)
